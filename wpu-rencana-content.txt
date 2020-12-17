@@ -2,8 +2,10 @@
 
 -javascript
  * ES6
+ * React
  *framework javascript
 -struktur data dasar
 -php framework
 -interview
 -vlogs
+-pyton
